@@ -37,7 +37,7 @@ This project is a web-based Library Management System built with Spring Boot. It
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/nikhilb2/SGA_II_BD.git
 cd library-management-system
 ```
 
